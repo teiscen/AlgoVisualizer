@@ -1,0 +1,5 @@
+.git
+.o
+*.log
+*.md
+build/
